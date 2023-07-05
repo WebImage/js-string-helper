@@ -1,0 +1,32 @@
+{
+  "name": "@webimage/string-helper",
+  "version": "0.0.1",
+  "description": "Various helpers for working with strings",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebImage/js-string-helper.git"
+  },
+  "keywords": [
+    "Javascript",
+    "TypeScript",
+    "String",
+    "Helper"
+  ],
+  "author": "Robert Jones II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebImage/js-string-helper/issues"
+  },
+  "homepage": "https://github.com/WebImage/js-string-helper#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
